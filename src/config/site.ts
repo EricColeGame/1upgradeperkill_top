@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "1 Upgrade Per Kill Wiki",
+  shortName: "1 Upgrade Per Kill",
+  logoText: "1",
+  tagline: "Complete Guides, Codes, Classes & Upgrade Paths",
+  description: "Explore +1 Upgrade Per Kill, a Roblox PvP arena game where every kill upgrades your gear and every death resets your progress. Learn about upgrade levels, classes, codes, perks, enchants, and combat strategies.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://1upgradeperkill.top",
+  supportEmail: "support@1upgradeperkill.top",
+  gameUrl: "https://www.roblox.com/games/113273588963037/1-Upgrade-Per-Kill",
+  heroVideoId: "Qsg2sIzSFrE", // +1 Upgrade Per Kill gameplay preview
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/games/113273588963037/1-Upgrade-Per-Kill",
+    youtube: "https://www.youtube.com/watch?v=Qsg2sIzSFrE",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
