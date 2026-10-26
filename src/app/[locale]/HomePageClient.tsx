@@ -35,7 +35,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <Button asChild size="lg"><a href={siteConfig.gameUrl || "#"} target="_blank" rel="noopener noreferrer">{home.hero.primaryCta}</a></Button>
-          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/beginner-guide", locale)}>{home.hero.secondaryCta}</Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide", locale)}>{home.hero.secondaryCta}</Link></Button>
           <Button asChild size="lg" variant="ghost"><Link href={localizeHref("/codes", locale)}>{home.hero.tertiaryCta}</Link></Button>
         </div>
       </section>
@@ -133,7 +133,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       <AdBanner size="300x250" />
 
       {/* About Game (curated, stays in JSON) */}
-      <section className="grid gap-8 rounded-3xl border border-border bg-card/60 p-6 lg:grid-cols-[1.1fr_0.9fr]"><div><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.aboutGame.title}</h2>{home.aboutGame.paragraphs.map((p) => <p key={p} className="mt-5 leading-8 text-muted-foreground">{p}</p>)}<Button asChild className="mt-6"><Link href={localizeHref("/beginner-guide", locale)}>{home.aboutGame.cta}</Link></Button></div><div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-2">{home.aboutGame.stats.map((stat) => <div key={stat.label} className="rounded-2xl border border-border bg-background p-4"><p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">{stat.label}</p><p className="mt-2 text-xl font-bold text-foreground">{stat.value}</p></div>)}</div></section>
+      <section className="grid gap-8 rounded-3xl border border-border bg-card/60 p-6 lg:grid-cols-[1.1fr_0.9fr]"><div><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.aboutGame.title}</h2>{home.aboutGame.paragraphs.map((p) => <p key={p} className="mt-5 leading-8 text-muted-foreground">{p}</p>)}<Button asChild className="mt-6"><Link href={localizeHref("/guide", locale)}>{home.aboutGame.cta}</Link></Button></div><div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-2">{home.aboutGame.stats.map((stat) => <div key={stat.label} className="rounded-2xl border border-border bg-background p-4"><p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">{stat.label}</p><p className="mt-2 text-xl font-bold text-foreground">{stat.value}</p></div>)}</div></section>
 
       {/* 8 Module Sections (full-width stacked, matching reference site style) */}
       {home.explore.modules && home.explore.modules.length > 0 && (
@@ -253,7 +253,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p>
         <div className="mt-6 flex flex-wrap justify-center gap-3">
           <Button asChild size="lg"><a href={siteConfig.gameUrl || "#"} target="_blank" rel="noopener noreferrer">{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></a></Button>
-          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/beginner-guide", locale)}>{home.finalCta.secondary}</Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide", locale)}>{home.finalCta.secondary}</Link></Button>
         </div>
       </section>
 

@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "progression": "Progression",
+    "community": "Community",
+    "tutorial": "Tutorial"
   },
   "home": {
     "meta": {
@@ -453,7 +460,34 @@
       "secondary": "Read the Beginner Guide"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "1 Upgrade Per Kill Guides",
+    "overviewDescription": "Master the kill-to-upgrade loop with beginner walkthroughs, damage tips, progression routes, and practical strategies for 1 Upgrade Per Kill."
+  },
+  "codes": {
+    "overviewTitle": "1 Upgrade Per Kill Codes",
+    "overviewDescription": "Check the latest 1 Upgrade Per Kill codes, learn how to redeem them, and see which rewards can accelerate your next upgrade run."
+  },
+  "mechanics": {
+    "overviewTitle": "1 Upgrade Per Kill Mechanics",
+    "overviewDescription": "Understand the upgrade system, damage scaling, permanent upgrades, level rewards, and the rules behind every kill in 1 Upgrade Per Kill."
+  },
+  "combat": {
+    "overviewTitle": "1 Upgrade Per Kill Combat Guides",
+    "overviewDescription": "Build stronger fighters, win more duels, manage kill streaks, and sharpen your PvP decisions in 1 Upgrade Per Kill."
+  },
+  "progression": {
+    "overviewTitle": "1 Upgrade Per Kill Progression Guides",
+    "overviewDescription": "Find the fastest upgrade routes, max damage and DPS targets, leveling priorities, and stat strategies for 1 Upgrade Per Kill."
+  },
+  "community": {
+    "overviewTitle": "1 Upgrade Per Kill Community & Updates",
+    "overviewDescription": "Follow 1 Upgrade Per Kill update notes, community resources, Discord and Reddit discussions, and the latest game news."
+  },
+  "tutorial": {
+    "overviewTitle": "1 Upgrade Per Kill Tutorials",
+    "overviewDescription": "Learn 1 Upgrade Per Kill step by step with gameplay tutorials, beginner tips, damage lessons, and ways to get stronger faster."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -482,11 +516,11 @@
     "playGame": "Play 1 Upgrade Per Kill on Roblox",
     "officialDiscord": "Roblox Game Page",
     "officialYoutube": "Gameplay Preview",
-    "vvBuilder": "Upgrade Guide",
+    "vvBuilder": "Upgrade Mechanics",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Progression Guides",
+    "bossGuides": "Combat Guides",
+    "buildGuide": "Community & Updates",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
