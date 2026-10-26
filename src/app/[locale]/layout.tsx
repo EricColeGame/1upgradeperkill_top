@@ -20,6 +20,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as { site?: { name?: string; description?: string } };
   const image = `${siteUrl}/images/hero.webp`;
   const imageAlt = `${siteConfig.name} hero artwork`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
@@ -35,8 +36,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    title: { default: "1 Upgrade Per Kill Wiki", template: "%s" },
-    description: "Complete 1 Upgrade Per Kill fan wiki with codes, classes, upgrade tiers, perks, enchants, and PvP progression guides.",
+    title: { default: messages.site?.name ?? siteConfig.name, template: "%s" },
+    description: messages.site?.description ?? "Complete 1 Upgrade Per Kill fan wiki with codes, classes, upgrade tiers, perks, enchants, and PvP progression guides.",
     openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image, width: 767, height: 432, alt: imageAlt }] },
     twitter: { card: "summary_large_image", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),

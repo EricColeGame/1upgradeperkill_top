@@ -257,13 +257,39 @@ const GROUP_TITLES_JA: Record<string, string> = {
   tutorial: "チュートリアル",
 };
 
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías",
+  codes: "Códigos",
+  mechanics: "Mecánicas",
+  combat: "Combate",
+  progression: "Progresión",
+  community: "Comunidad",
+  tutorial: "Tutoriales",
+};
+
+// 巴西葡萄牙语分组标题映射
+const GROUP_TITLES_PT_BR: Record<string, string> = {
+  guide: "Guias",
+  codes: "Códigos",
+  mechanics: "Mecânicas",
+  combat: "Combate",
+  progression: "Progressão",
+  community: "Comunidade",
+  tutorial: "Tutoriais",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: GROUP_TITLES_ES,
+  "pt-BR": GROUP_TITLES_PT_BR,
   ja: GROUP_TITLES_JA,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  es: "Resumen",
+  "pt-BR": "Visão geral",
   ja: "一覧",
 };
 

@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "1 Upgrade Per Kill 攻略Wiki",
+    "shortName": "1 Upgrade Per Kill",
+    "tagline": "完全ガイド、コード、クラス、アップグレード経路",
+    "description": "毎キルで装備がアップグレードし、死亡すると進行がリセットされるRobloxのPvPアリーナゲーム、+1 Upgrade Per Killを解説します。アップグレードレベル、クラス、コード、パーク、エンチャント、戦闘戦略を学びましょう。",
+    "legalNotice": "1 Upgrade Per Killの独立したファンWikiです。Block PvPおよびRobloxとは提携していません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "ガイド",
+    "codes": "コード",
+    "mechanics": "メカニクス",
+    "combat": "戦闘",
+    "progression": "進行",
+    "community": "コミュニティ",
+    "tutorial": "チュートリアル"
+  },
+  "home": {
+    "meta": {
+      "title": "1 Upgrade Per Kill 攻略Wiki：コード、クラス、アップグレード",
+      "description": "1 Upgrade Per Killの最新コード、アップグレードレベル、クラスガイド、パーク、エンチャント、PvPのコツを掲載。装備の階段を上り、戦闘に勝つ方法を学びましょう。"
+    },
+    "hero": {
+      "eyebrow": "Robloxの無料参加型PvPアップグレードバトルグラウンド",
+      "title": "1 Upgrade Per Kill 攻略Wiki",
+      "description": "毎キルで装備がアップグレードし、死亡すると進行がリセットされるRobloxのPvPアリーナゲーム、+1 Upgrade Per Killを解説します。アップグレードレベル、クラス、コード、パーク、エンチャント、戦闘戦略を学びましょう。",
+      "stats": [
+        "累計訪問2.1M以上",
+        "34アップグレードレベル",
+        "有効コード1件",
+        "2026年9月27日リリース"
+      ],
+      "primaryCta": "Robloxでプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "ゲームプレイプレビュー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "1 Upgrade Per Killの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "1キル1アップグレードのループを学び、失敗しにくい初期クラスを選び、最初の連勝を守りましょう。"
+        },
+        {
+          "number": "2",
+          "title": "最速の進行",
+          "description": "生存優先の戦い方、Goldの優先順位、Gear Saverの使いどころを意識して、LeatherからMAXEDまでの上昇を計画しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "有効コード",
+          "description": "WELCOMEを引き換えて無料ギフトを受け取り、初戦の前にBlock PvPグループの別報酬も受け取りましょう。"
+        },
+        {
+          "number": "4",
+          "title": "最強クラス",
+          "description": "Warrior、Archer、Trickster、Trapper、Bomberを含む8クラスをプレイスタイル別に比較しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "1 Upgrade Per Kill 注目ガイド",
+      "quickLinks": [
+        "有効コード",
+        "アップグレードの階段",
+        "最強クラス",
+        "戦闘のコツ"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "アップグレードのループ、初期クラス、Goldの稼ぎ方、好調なランを崩すミスを学びましょう。",
+          "href": "/guide/1-upgrade-per-kill-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "有効コード",
+          "description": "WELCOMEを引き換え、Block PvPグループの別ギフトも受け取りましょう。",
+          "href": "/codes/1-upgrade-per-kill-codes"
+        },
+        {
+          "badge": "基本",
+          "title": "アップグレードの階段",
+          "description": "LeatherからMAXEDまでの34段階をたどり、Gear Saverを使うべきタイミングを学びましょう。",
+          "href": "/mechanics/1-upgrade-per-kill-dps-upgrades"
+        },
+        {
+          "badge": "人気",
+          "title": "クラスガイド",
+          "description": "8クラスを役割、射程、機動力、離脱手段で比較しましょう。",
+          "href": "/guide/1-upgrade-per-kill-how-to-play"
+        },
+        {
+          "badge": "PvP",
+          "title": "戦闘ガイド",
+          "description": "立ち位置、回復、ターゲット優先度、ノックバックへの注意で連勝を守りましょう。",
+          "href": "/combat/1-upgrade-per-kill-combat-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "最強ビルド",
+          "description": "クラスにエンチャント、パーク、Gear Saverのタイミングを組み合わせ、終盤の階段を生き残りましょう。",
+          "href": "/combat/1-upgrade-per-kill-strongest-build"
+        },
+        {
+          "badge": "経済",
+          "title": "Goldの稼ぎ方",
+          "description": "キル、バウンティ、デイリークエスト、プレイ時間報酬を重ねて安定したGold収入を作りましょう。",
+          "href": "/guide/1-upgrade-per-kill-fastest-progression"
+        },
+        {
+          "badge": "コミュニティ",
+          "title": "コミュニティガイド",
+          "description": "Robloxアリーナに関するプレイヤーの議論、ロードアウト案、コミュニティリソースを見つけましょう。",
+          "href": "/community/1-upgrade-per-kill-community"
+        },
+        {
+          "badge": "更新済み",
+          "title": "最新アップデート",
+          "description": "現在の階段、クラス一覧、Gear Saver、ランキング目標を確認しましょう。",
+          "href": "/community/1-upgrade-per-kill-latest-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "1 Upgrade Per Killとは？",
+      "paragraphs": [
+        "1 Upgrade Per KillはBlock PvPが制作したRobloxの無料参加型PvPアリーナです。キルするたびに防具が34段階の階段を1つ上がり、LeatherからCopper、Iron、Full Diamond、Ruby、Shadow、Prism、MAXEDへと進みます。",
+        "8つのクラスが戦い方を変え、Goldでパークを購入し、エンチャントがビルドに幅を与え、Golden Appleが有利な撃ち合いを支えます。通常は死亡で階段がリセットされますが、Gear Saverなら防具を守れます。当ガイドではコード、クラス、アップグレード段階、戦闘、Goldの稼ぎ方を扱います。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Block PvP"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "無料参加型PvP"
+        },
+        {
+          "label": "リリース",
+          "value": "2026年9月27日"
+        },
+        {
+          "label": "訪問数",
+          "value": "2.1M以上"
+        },
+        {
+          "label": "アップグレード段階",
+          "value": "34"
+        },
+        {
+          "label": "クラス",
+          "value": "8"
+        },
+        {
+          "label": "サーバー人数",
+          "value": "25"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "1 Upgrade Per Kill 攻略Wikiを探索",
+      "description": "1 Upgrade Per Killのコード、初心者ルート、クラス比較、34段階の装備の階段、Goldの優先順位、戦闘戦術、ショップの考え方を活用して、毎回のランを計画しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "1 Upgrade Per Kill コード",
+          "description": "確認済みのWELCOMEコードで無料ギフトを受け取り、Block PvPグループの別報酬も受け取って、ロビーでの引き換え手順を学びましょう。",
+          "href": "/codes/1-upgrade-per-kill-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WELCOME",
+              "detail": "無料ギフトに加え、Block PvPグループ参加で2つ目のギフトを受け取れます。"
+            },
+            {
+              "label": "GROUP",
+              "detail": "Block PvPグループに参加して、コミュニティ限定の別報酬を受け取りましょう。"
+            },
+            {
+              "label": "REDEEM",
+              "detail": "ロビーのコードメニューを開き、大文字のコードを貼り付けて送信し、インベントリを確認しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "1 Upgrade Per Kill 初心者ガイド",
+          "description": "クラス選択と安全なターゲット選びから、Goldの使い方、Golden Appleのタイミング、連勝の守り方まで、初戦の流れをたどりましょう。",
+          "href": "/guide/1-upgrade-per-kill-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最初の数戦はWarriorを選びましょう。追加のGolden Appleがアリーナを学ぶ余裕をくれます。"
+            },
+            {
+              "label": "2",
+              "detail": "防具がLeatherの間は、安全な戦いを1つずつ勝ち、五分の決闘を避けましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "パークを買う前に、デイリークエスト、バウンティ、キル、プレイ時間報酬でGoldを貯めましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "HPが尽きる前にGolden Appleを使いましょう。連勝を失う損失はリンゴ1個より大きいです。"
+            },
+            {
+              "label": "5",
+              "detail": "Gear SaverはShadow以上まで取っておきましょう。死亡で複数段階が消える領域です。"
+            },
+            {
+              "label": "6",
+              "detail": "ロビーでWELCOMEを引き換え、マッチに入る前にBlock PvPグループのギフトも受け取りましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "1 Upgrade Per Kill クラスガイド",
+          "description": "8クラスを戦闘役割、射程、機動力、離脱手段で比較し、アリーナでの直感に合うキットを選びましょう。",
+          "href": "/guide/1-upgrade-per-kill-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Warrior",
+              "detail": "追加のGolden Appleを備えた近接ブルーザー。正面の決闘と場所の維持に向きます。"
+            },
+            {
+              "label": "Archer",
+              "detail": "戦いを仕掛ける前に相手を削る、遠距離からの圧力役です。"
+            },
+            {
+              "label": "Trickster",
+              "detail": "機動力と陽動で不利な戦いから離脱し、第三者のキルを奪います。"
+            },
+            {
+              "label": "Trapper",
+              "detail": "狭い通路を封鎖し、敵のコンボを止めるエリア制圧役です。"
+            },
+            {
+              "label": "Skirmisher",
+              "detail": "素早いキルと離脱を狙うヒットアンドラン型です。"
+            },
+            {
+              "label": "Fire",
+              "detail": "Firestarterは継続ダメージで集団を弱らせ、空間を封じます。"
+            },
+            {
+              "label": "Bomber",
+              "detail": "爆発と瞬間火力で密集したプレイヤーを罰します。"
+            },
+            {
+              "label": "Scorcher",
+              "detail": "序盤のキルを連鎖させ、防具を破壊する攻撃的な圧力型です。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "1 Upgrade Per Kill アップグレード段階",
+          "description": "LeatherからMAXEDまでの34段階の防具の階段をたどり、どの段階が忍耐、立て直し、攻めを報いるかを学びましょう。",
+          "href": "/mechanics/1-upgrade-per-kill-dps-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "MAXEDとPrism：階段の最終段階で、1戦がランを決めます。"
+            },
+            {
+              "label": "A",
+              "detail": "ShadowとRuby：もう1キルより生存が重要な高段階エリアです。"
+            },
+            {
+              "label": "B",
+              "detail": "Full DiamondとIron：中盤のチェックポイントで、Fastest Diamond専用ランキングもあります。"
+            },
+            {
+              "label": "C",
+              "detail": "CopperとLeather：開始段階で、安全な第三者戦が流れを立て直します。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "1 Upgrade Per Kill 最強パークとエンチャント",
+          "description": "生存力、離脱手段、ダメージを高めるパークとエンチャントの優先順位を比較し、先にコスメティックへGoldを使わないようにしましょう。",
+          "href": "/combat/1-upgrade-per-kill-strongest-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Head Start",
+              "detail": "毎回Leather装備で開始し、パーク枠を使いません。"
+            },
+            {
+              "label": "Snack Pack",
+              "detail": "1ライフにつきGolden Appleが1個増え、長い撃ち合いに対応できます。"
+            },
+            {
+              "label": "Mobility",
+              "detail": "移動と離脱のパークが高アップグレードの連勝を守ります。"
+            },
+            {
+              "label": "Damage",
+              "detail": "ダメージエンチャントはキルを速め、次の段階へ届きやすくします。"
+            },
+            {
+              "label": "Gear Saver",
+              "detail": "守る価値のある連勝なら、1回の死亡後も防具を維持できます。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "1 Upgrade Per Kill Goldとエメラルドガイド",
+          "description": "キル、バウンティ、デイリークエスト、プレイ時間報酬、Server BoostからGoldを得て、パーク、エンチャント、Golden Apple、Gear Saverに振り分けましょう。",
+          "href": "/guide/1-upgrade-per-kill-fastest-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "キル",
+              "detail": "キルはGoldの中心的な供給源で、戦闘の安定度に応じて増えます。"
+            },
+            {
+              "label": "バウンティ",
+              "detail": "安定して勝てるようになると、バウンティ対象が追加のGoldをもたらします。"
+            },
+            {
+              "label": "クエスト",
+              "detail": "デイリークエストは勝利不要なので、序盤で最も安全な収入源です。"
+            },
+            {
+              "label": "プレイ時間",
+              "detail": "プレイ時間報酬は勝てなかったラウンドでも支払われます。"
+            },
+            {
+              "label": "ブースト",
+              "detail": "Server BoostはGoldとXPを増やしますが、アップグレードカウンターは上がりません。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "1 Upgrade Per Kill 戦闘のコツと戦略",
+          "description": "立ち位置、回復タイミング、ターゲット選択、崖際への注意、離脱ルールを使い、伸びているアップグレードの連勝を守りましょう。",
+          "href": "/combat/1-upgrade-per-kill-combat-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "位置",
+              "detail": "遮蔽物や狭い通路の近くで戦い、同時に1体だけが届く状況を作りましょう。"
+            },
+            {
+              "label": "回復",
+              "detail": "HPがゼロになる前にGolden Appleを使いましょう。連勝を失う損失はリンゴ1個より大きいです。"
+            },
+            {
+              "label": "ターゲット",
+              "detail": "高アップグレードの相手は、明確な逃げ道があるときだけ追加XP目的で狙いましょう。"
+            },
+            {
+              "label": "崖際",
+              "detail": "崖から2歩下がって立ちましょう。TricksterとBomberはノックバックをキルに変えられます。"
+            },
+            {
+              "label": "離脱",
+              "detail": "Ruby以上では、階段を差し出すくらいなら五分の戦いから離れましょう。"
+            },
+            {
+              "label": "漁夫の利",
+              "detail": "連勝中の2人が撃ち合うのを待ち、生き残った方を倒して低リスクでアップグレードしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "1 Upgrade Per Kill ショップとゲームパス",
+          "description": "Gear Saver、Goldで買うパーク、クラス解放、クレート、ケープを確認し、戦闘価値とコスメティック支出を分けて考えましょう。",
+          "href": "/guide/1-upgrade-per-kill-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gear Saver",
+              "detail": "安全網はShadow以上まで取っておく価値があります。Ironで使うのは避けましょう。"
+            },
+            {
+              "label": "パーク",
+              "detail": "Goldで買うパークは、1回の連勝を超えた長期的な戦力を加えます。"
+            },
+            {
+              "label": "クラス",
+              "detail": "Warriorは無料、ArcherとTricksterはRobuxで解放、Bomberは4,000 Goldまたはハロウィンクエストで入手できます。"
+            },
+            {
+              "label": "クレート",
+              "detail": "クレートからはアップグレードの階段を変えないコスメティックや報酬が手に入ります。"
+            },
+            {
+              "label": "ケープ",
+              "detail": "ケープはステータス用のコスメティックで、戦闘には影響しません。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "1 Upgrade Per Kill よくある質問",
+      "description": "1 Upgrade Per Killのクラス、アップグレード、コード、Gear Saver、死亡時のリセットルールについて直接回答します。",
+      "items": [
+        {
+          "question": "1 Upgrade Per Killとは何ですか？",
+          "answer": "1 Upgrade Per KillはBlock PvPが制作したRobloxの無料参加型PvPアリーナです。キルするたびに防具が34段階の階段を1つ上がり、通常は死亡すると上昇がリセットされます。"
+        },
+        {
+          "question": "1 Upgrade Per Killのアップグレードの階段はどう機能しますか？",
+          "answer": "1 Upgrade Per KillにはLeather、Copper、Iron、Full Diamond、Ruby、Shadow、Prism、MAXEDという8つの防具段階があります。ゲーム内カウンターは合計34段階を記録し、Full Diamondが中盤の重要なチェックポイントです。"
+        },
+        {
+          "question": "1 Upgrade Per Killでは死亡すると進行がリセットされますか？",
+          "answer": "はい。1 Upgrade Per Killで死亡すると通常は防具がLeatherに戻り、アップグレードの積み重ねが消えます。Gear Saverだけが例外で、1回の死亡をまたいで防具を維持できます。"
+        },
+        {
+          "question": "初心者は1 Upgrade Per Killでどのクラスを選ぶべきですか？",
+          "answer": "Warriorは追加のGolden Appleでミスの余地が大きいため、1 Upgrade Per Killで最も初心者に優しい最初のクラスです。マップを覚えたら、Trickster、Skirmisher、Archerのような機動力型や遠距離型も試しましょう。"
+        },
+        {
+          "question": "1 Upgrade Per Killでコードを引き換えるには？",
+          "answer": "1 Upgrade Per Killを起動し、ロビーのコードメニューを開き、WELCOMEを貼り付けて送信し、インベントリを確認します。Block PvPグループへの参加は2つ目のギフトを受け取る別の手続きです。"
+        },
+        {
+          "question": "1 Upgrade Per Killで最初に何を買うべきですか？",
+          "answer": "1 Upgrade Per Killでは高段階のラン用にGear Saverを優先し、その後にクラスを強化するパークとエンチャントを選びましょう。Golden Appleは生存を支え、クレートとケープは任意のコスメティック支出です。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "1 Upgrade Per Killを極める準備はできましたか？",
+      "description": "キルするたびに装備がアップグレードし、死亡するたびに進行がリセットされます。無料のRobloxガイドでアップグレードを計画し、パークを選び、ランキングを上りましょう。",
+      "primary": "Robloxでプレイ",
+      "secondary": "初心者ガイドを読む"
+    }
+  },
+  "guide": {
+    "overviewTitle": "1 Upgrade Per Kill ガイド",
+    "overviewDescription": "初心者向けの手順、ダメージのコツ、進行ルート、実践的な戦略で、1 Upgrade Per Killのキルからアップグレードへのループを極めましょう。"
+  },
+  "codes": {
+    "overviewTitle": "1 Upgrade Per Kill コード",
+    "overviewDescription": "1 Upgrade Per Killの最新コードを確認し、引き換え方法を学び、次のアップグレードランを加速できる報酬を見つけましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "1 Upgrade Per Kill メカニクス",
+    "overviewDescription": "アップグレードシステム、ダメージの伸び、永久アップグレード、レベル報酬、1 Upgrade Per Killの各キルを支えるルールを理解しましょう。"
+  },
+  "combat": {
+    "overviewTitle": "1 Upgrade Per Kill 戦闘ガイド",
+    "overviewDescription": "より強い戦闘者を作り、決闘に勝ち、キル連鎖を管理し、1 Upgrade Per KillでのPvP判断を磨きましょう。"
+  },
+  "progression": {
+    "overviewTitle": "1 Upgrade Per Kill 進行ガイド",
+    "overviewDescription": "最速のアップグレードルート、最大ダメージとDPSの目標、レベルの優先順位、1 Upgrade Per Killのステータス戦略を見つけましょう。"
+  },
+  "community": {
+    "overviewTitle": "1 Upgrade Per Kill コミュニティと更新情報",
+    "overviewDescription": "1 Upgrade Per Killの更新ノート、コミュニティリソース、DiscordやRedditの議論、最新ニュースを追いましょう。"
+  },
+  "tutorial": {
+    "overviewTitle": "1 Upgrade Per Kill チュートリアル",
+    "overviewDescription": "ゲームプレイ解説、初心者のコツ、ダメージのレッスン、より早く強くなる方法で、1 Upgrade Per Killを段階的に学びましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "notFoundTitle": "ページが見つかりません",
+    "notFoundDescription": "お探しのガイドは移動したか、まだ追加されていない可能性があります。",
+    "browseGuides": "ガイドを見る",
+    "noGuidesAvailable": "まだガイドがありません。後でもう一度確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "1 Upgrade Per Kill 攻略Wiki",
+    "about": "1 Upgrade Per Kill 攻略Wikiは、アップグレードレベル、クラス、パーク、エンチャント、PvPの進行を扱うファン制作の独立ガイドハブです。Robloxの新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 1 Upgrade Per Kill 攻略Wiki。Block PvPおよびRobloxとは提携していません。",
+    "description": "Robloxの無料参加型PvPアップグレードバトルグラウンド。キルするたびに装備が上がり、死亡するたびに進行がリセットされます。",
+    "playGame": "Robloxで1 Upgrade Per Killをプレイ",
+    "officialDiscord": "Robloxゲームページ",
+    "officialYoutube": "ゲームプレイプレビュー",
+    "vvBuilder": "アップグレードの仕組み",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "進行ガイド",
+    "bossGuides": "戦闘ガイド",
+    "buildGuide": "コミュニティと更新情報",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

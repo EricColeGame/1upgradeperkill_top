@@ -503,6 +503,9 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The guide you are looking for may have moved or has not been added yet.",
+    "browseGuides": "Browse Guides",
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {

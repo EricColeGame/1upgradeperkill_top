@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "Wiki de 1 Upgrade Per Kill",
+    "shortName": "1 Upgrade Per Kill",
+    "tagline": "Guías completas, códigos, clases y rutas de mejora",
+    "description": "Explora +1 Upgrade Per Kill, un juego de arena PvP de Roblox donde cada eliminación mejora tu equipo y cada muerte reinicia tu progreso. Aprende sobre niveles de mejora, clases, códigos, ventajas, encantamientos y estrategias de combate.",
+    "legalNotice": "Wiki de fans independiente de 1 Upgrade Per Kill. No está afiliada a Block PvP ni a Roblox."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "codes": "Códigos",
+    "mechanics": "Mecánicas",
+    "combat": "Combate",
+    "progression": "Progresión",
+    "community": "Comunidad",
+    "tutorial": "Tutorial"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de 1 Upgrade Per Kill: códigos, clases y mejoras",
+      "description": "Encuentra los códigos más recientes de 1 Upgrade Per Kill, niveles de mejora, guías de clases, ventajas, encantamientos y consejos de PvP. Aprende a subir la escalera de equipo y a ganar más combates."
+    },
+    "hero": {
+      "eyebrow": "Campo de batalla PvP de mejoras gratuito para todos de Roblox",
+      "title": "Wiki de 1 Upgrade Per Kill",
+      "description": "Explora +1 Upgrade Per Kill, un juego de arena PvP de Roblox donde cada eliminación mejora tu equipo y cada muerte reinicia tu progreso. Aprende sobre niveles de mejora, clases, códigos, ventajas, encantamientos y estrategias de combate.",
+      "stats": [
+        "Más de 2,1 M de visitas",
+        "34 niveles de mejora",
+        "1 código activo",
+        "Lanzamiento: 27 sep 2026"
+      ],
+      "primaryCta": "Jugar en Roblox",
+      "secondaryCta": "Guía para principiantes",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Vista previa del juego"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido en 1 Upgrade Per Kill",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el ciclo de una eliminación por mejora, elige una clase inicial indulgente y mantén viva tu primera racha."
+        },
+        {
+          "number": "2",
+          "title": "Progresión más rápida",
+          "description": "Planifica el ascenso de Leather a MAXED con combates centrados en sobrevivir, prioridades de Gold y buen uso de Gear Saver."
+        },
+        {
+          "number": "3",
+          "title": "Códigos activos",
+          "description": "Canjea WELCOME por un regalo gratuito y reclama la recompensa separada del grupo de Block PvP antes de tu primera partida."
+        },
+        {
+          "number": "4",
+          "title": "Mejores clases",
+          "description": "Compara Warrior, Archer, Trickster, Trapper, Bomber y las ocho clases completas según tu estilo de juego."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías tendencia de 1 Upgrade Per Kill",
+      "quickLinks": [
+        "Códigos activos",
+        "Escalera de mejoras",
+        "Mejores clases",
+        "Consejos de combate"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Aprende el ciclo de mejoras, las clases iniciales, las rutas de Gold y los errores que arruinan una buena partida.",
+          "href": "/guide/1-upgrade-per-kill-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Canjea WELCOME y reclama el regalo separado del grupo de Block PvP.",
+          "href": "/codes/1-upgrade-per-kill-codes"
+        },
+        {
+          "badge": "Básico",
+          "title": "Escalera de mejoras",
+          "description": "Sigue los 34 pasos de Leather a MAXED y descubre cuándo conviene usar un Gear Saver.",
+          "href": "/mechanics/1-upgrade-per-kill-dps-upgrades"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de clases",
+          "description": "Compara las ocho clases por rol, alcance, movilidad y herramientas de escape.",
+          "href": "/guide/1-upgrade-per-kill-how-to-play"
+        },
+        {
+          "badge": "PvP",
+          "title": "Guía de combate",
+          "description": "Usa el posicionamiento, la curación, la prioridad de objetivos y el retroceso para proteger tu racha.",
+          "href": "/combat/1-upgrade-per-kill-combat-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Build más fuerte",
+          "description": "Combina una clase con encantamientos, ventajas y el momento adecuado para Gear Saver y sobrevive al tramo final.",
+          "href": "/combat/1-upgrade-per-kill-strongest-build"
+        },
+        {
+          "badge": "Economía",
+          "title": "Rutas de Gold",
+          "description": "Combina eliminaciones, recompensas, misiones diarias y el progreso por tiempo de juego para obtener un suministro fiable de Gold.",
+          "href": "/guide/1-upgrade-per-kill-fastest-progression"
+        },
+        {
+          "badge": "Comunidad",
+          "title": "Guía de la comunidad",
+          "description": "Encuentra debates de jugadores, ideas de equipamiento y recursos de la comunidad para la arena de Roblox.",
+          "href": "/community/1-upgrade-per-kill-community"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Última actualización",
+          "description": "Revisa la escalera actual, las clases, los Gear Savers y los objetivos de la clasificación.",
+          "href": "/community/1-upgrade-per-kill-latest-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es 1 Upgrade Per Kill?",
+      "paragraphs": [
+        "1 Upgrade Per Kill es una arena PvP gratuita para todos de Roblox creada por Block PvP. Cada eliminación avanza tu armadura un paso por una escalera de 34 niveles, desde Leather hasta Copper, Iron, Full Diamond, Ruby, Shadow, Prism y MAXED.",
+        "Ocho clases cambian tu forma de combatir; el Gold compra ventajas, los encantamientos aportan variedad a las builds y las Golden Apples mantienen vivo un intercambio favorable. Morir normalmente reinicia la escalera, pero un Gear Saver puede conservar tu armadura. Nuestras guías cubren códigos, clases, niveles de mejora, combate y rutas de Gold."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Block PvP"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "PvP gratuito para todos"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "27 sep 2026"
+        },
+        {
+          "label": "Visitas",
+          "value": "Más de 2,1 M"
+        },
+        {
+          "label": "Pasos de mejora",
+          "value": "34"
+        },
+        {
+          "label": "Clases",
+          "value": "8"
+        },
+        {
+          "label": "Tamaño del servidor",
+          "value": "25"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de 1 Upgrade Per Kill",
+      "description": "Planifica cada partida con códigos de 1 Upgrade Per Kill, una ruta para principiantes, comparativas de clases, la escalera de equipo de 34 pasos, prioridades de Gold, tácticas de combate y consejos para la tienda.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de 1 Upgrade Per Kill",
+          "description": "Canjea el código confirmado WELCOME por un regalo gratuito, reclama la recompensa separada del grupo de Block PvP y aprende el proceso de canje en el vestíbulo.",
+          "href": "/codes/1-upgrade-per-kill-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WELCOME",
+              "detail": "Regalo gratuito y aviso para unirte al grupo de Block PvP y recibir un segundo regalo."
+            },
+            {
+              "label": "GROUP",
+              "detail": "Únete al grupo de Block PvP para reclamar la recompensa separada de la comunidad."
+            },
+            {
+              "label": "REDEEM",
+              "detail": "Abre el menú de códigos en el vestíbulo, pega el código en mayúsculas, envíalo y revisa tu inventario."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de 1 Upgrade Per Kill",
+          "description": "Sigue el ciclo de tu primera partida, desde elegir clase y objetivos seguros hasta gastar Gold, usar Golden Apples a tiempo y proteger tu racha.",
+          "href": "/guide/1-upgrade-per-kill-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Elige Warrior en tus primeras partidas; sus Golden Apples extra te dejan margen para aprender la arena."
+            },
+            {
+              "label": "2",
+              "detail": "Gana un combate seguro a la vez y evita duelos igualados mientras tu armadura siga siendo Leather."
+            },
+            {
+              "label": "3",
+              "detail": "Acumula Gold con misiones diarias, recompensas, eliminaciones y el progreso por tiempo antes de comprar ventajas."
+            },
+            {
+              "label": "4",
+              "detail": "Usa Golden Apples antes de quedarte sin vida; perder una racha cuesta más que una manzana."
+            },
+            {
+              "label": "5",
+              "detail": "Reserva un Gear Saver para Shadow o superior, cuando una muerte borraría varios niveles."
+            },
+            {
+              "label": "6",
+              "detail": "Canjea WELCOME en el vestíbulo y reclama el regalo del grupo de Block PvP antes de entrar a la cola."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de clases de 1 Upgrade Per Kill",
+          "description": "Compara las ocho clases por rol de combate, alcance, movilidad y herramientas de escape, y elige el kit que encaje con tus instintos en la arena.",
+          "href": "/guide/1-upgrade-per-kill-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Warrior",
+              "detail": "Luchador cuerpo a cuerpo con Golden Apples extra para duelos directos y control del terreno."
+            },
+            {
+              "label": "Archer",
+              "detail": "Presión a distancia para desgastar objetivos antes de comprometerte en un combate."
+            },
+            {
+              "label": "Trickster",
+              "detail": "Movilidad y distracción para escapar de malos combates y robar eliminaciones de terceros."
+            },
+            {
+              "label": "Trapper",
+              "detail": "Control de zona que bloquea pasos estrechos y frena los combos enemigos."
+            },
+            {
+              "label": "Skirmisher",
+              "detail": "Presión de ataque y retirada para eliminaciones rápidas y desconexiones veloces."
+            },
+            {
+              "label": "Fire",
+              "detail": "Firestarter inflige daño con el tiempo que debilita grupos y niega espacio."
+            },
+            {
+              "label": "Bomber",
+              "detail": "Explosivos y daño explosivo para castigar a los jugadores agrupados."
+            },
+            {
+              "label": "Scorcher",
+              "detail": "Presión agresiva pensada para encadenar eliminaciones tempranas y romper armaduras."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Niveles de mejora de 1 Upgrade Per Kill",
+          "description": "Sigue la escalera de armaduras de 34 pasos de Leather a MAXED y descubre qué etapas premian la paciencia, la consolidación y los avances agresivos.",
+          "href": "/mechanics/1-upgrade-per-kill-dps-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "MAXED y Prism: las etapas finales, donde cada combate puede decidir la partida."
+            },
+            {
+              "label": "A",
+              "detail": "Shadow y Ruby: territorio de alto nivel donde sobrevivir importa más que otra eliminación."
+            },
+            {
+              "label": "B",
+              "detail": "Full Diamond e Iron: el punto de control de mitad de partida, con una clasificación dedicada a Fastest Diamond."
+            },
+            {
+              "label": "C",
+              "detail": "Copper y Leather: los niveles iniciales, donde los combates seguros de terceros recuperan el impulso."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Mejores ventajas y encantamientos de 1 Upgrade Per Kill",
+          "description": "Compara las prioridades de ventajas y encantamientos que mejoran la supervivencia, las opciones de escape y el daño sin gastar Gold primero en cosméticos.",
+          "href": "/combat/1-upgrade-per-kill-strongest-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Head Start",
+              "detail": "Empieza cada vida con piezas de Leather y sin coste de espacio de ventaja."
+            },
+            {
+              "label": "Snack Pack",
+              "detail": "Añade otra Golden Apple por vida para intercambios más largos."
+            },
+            {
+              "label": "Mobility",
+              "detail": "Las ventajas de movimiento y escape protegen una racha de mejoras alta."
+            },
+            {
+              "label": "Damage",
+              "detail": "Los encantamientos de daño aceleran las eliminaciones y facilitan alcanzar el siguiente nivel."
+            },
+            {
+              "label": "Gear Saver",
+              "detail": "Conserva tu armadura tras una muerte cuando la racha merezca protección."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de Gold y esmeraldas de 1 Upgrade Per Kill",
+          "description": "Obtén Gold con eliminaciones, recompensas, misiones diarias, el progreso por tiempo y los Server Boosts, y destínalo a ventajas, encantamientos, Golden Apples y Gear Savers.",
+          "href": "/guide/1-upgrade-per-kill-fastest-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Eliminaciones",
+              "detail": "Las eliminaciones son la fuente principal de Gold y crecen con tu constancia en combate."
+            },
+            {
+              "label": "Recompensas",
+              "detail": "Los objetivos con recompensa añaden Gold cuando ya puedes ganar combates con regularidad."
+            },
+            {
+              "label": "Misiones",
+              "detail": "Las misiones diarias son la fuente temprana más segura porque no exigen ganar."
+            },
+            {
+              "label": "Tiempo de juego",
+              "detail": "El progreso por tiempo paga incluso en partidas que no ganas."
+            },
+            {
+              "label": "Mejoras de servidor",
+              "detail": "Los Server Boosts aumentan la obtención de Gold y XP, pero no suben el contador de mejoras."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Consejos y estrategias de combate de 1 Upgrade Per Kill",
+          "description": "Usa el posicionamiento, el momento de curarte, la elección de objetivos, la conciencia de los bordes y reglas de retirada para proteger una racha de mejoras creciente.",
+          "href": "/combat/1-upgrade-per-kill-combat-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Posición",
+              "detail": "Combate cerca de coberturas y pasos estrechos para que solo un enemigo pueda alcanzarte a la vez."
+            },
+            {
+              "label": "Curación",
+              "detail": "Usa Golden Apples antes de que tu vida llegue a cero; perder una racha cuesta más que una manzana."
+            },
+            {
+              "label": "Objetivos",
+              "detail": "Caza jugadores con muchas mejoras por XP extra solo cuando tengas una ruta de escape clara."
+            },
+            {
+              "label": "Bordes",
+              "detail": "Mantente a dos pasos de los bordes; Trickster y Bomber pueden convertir el retroceso en una eliminación."
+            },
+            {
+              "label": "Retirada",
+              "detail": "En Ruby y superiores, aléjate de un combate al azar en lugar de regalar la escalera."
+            },
+            {
+              "label": "Limpieza",
+              "detail": "Deja que dos jugadores con racha intercambien golpes y termina al superviviente para subir con bajo riesgo."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tienda y pases de juego de 1 Upgrade Per Kill",
+          "description": "Revisa Gear Savers, ventajas compradas con Gold, desbloqueos de clase, cofres y capas, y separa el valor de combate del gasto cosmético.",
+          "href": "/guide/1-upgrade-per-kill-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gear Saver",
+              "detail": "La red de seguridad merece guardarse para Shadow y superiores; evita gastarla en Iron."
+            },
+            {
+              "label": "Ventajas",
+              "detail": "Las ventajas compradas con Gold aportan poder a largo plazo más allá de una sola racha."
+            },
+            {
+              "label": "Clases",
+              "detail": "Warrior es gratis; Archer y Trickster se desbloquean con Robux; Bomber cuesta 4.000 Gold o una misión de Halloween."
+            },
+            {
+              "label": "Cofres",
+              "detail": "Abre cofres para obtener cosméticos y recompensas que no cambian la escalera de mejoras."
+            },
+            {
+              "label": "Capas",
+              "detail": "Las capas son objetos cosméticos de estatus y no afectan al combate."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de 1 Upgrade Per Kill",
+      "description": "Respuestas directas sobre las clases, las mejoras, los códigos, los Gear Savers y la regla de reinicio al morir en 1 Upgrade Per Kill.",
+      "items": [
+        {
+          "question": "¿Qué es 1 Upgrade Per Kill?",
+          "answer": "1 Upgrade Per Kill es una arena PvP gratuita para todos de Roblox creada por Block PvP. Cada eliminación sube tu armadura un paso en una escalera de 34 niveles, mientras que morir normalmente reinicia el ascenso."
+        },
+        {
+          "question": "¿Cómo funciona la escalera de mejoras en 1 Upgrade Per Kill?",
+          "answer": "1 Upgrade Per Kill usa ocho niveles de armadura con nombre: Leather, Copper, Iron, Full Diamond, Ruby, Shadow, Prism y MAXED. El contador del juego registra 34 pasos de mejora en total, y Full Diamond es un punto de control clave a mitad de partida."
+        },
+        {
+          "question": "¿Morir reinicia el progreso en 1 Upgrade Per Kill?",
+          "answer": "Sí. Morir en 1 Upgrade Per Kill normalmente devuelve tu armadura a Leather y borra la racha de mejoras. Gear Saver es la excepción y puede conservar tu armadura tras una muerte."
+        },
+        {
+          "question": "¿Qué clase deberían elegir los principiantes en 1 Upgrade Per Kill?",
+          "answer": "Warrior es la primera clase más indulgente de 1 Upgrade Per Kill porque sus Golden Apples extra permiten más errores. Cuando aprendas el mapa, prueba clases móviles o a distancia como Trickster, Skirmisher o Archer."
+        },
+        {
+          "question": "¿Cómo canjeo códigos en 1 Upgrade Per Kill?",
+          "answer": "Abre 1 Upgrade Per Kill, accede al menú de códigos del vestíbulo, pega WELCOME, envíalo y revisa tu inventario. Unirte al grupo de Block PvP es un reclamo separado para obtener un segundo regalo."
+        },
+        {
+          "question": "¿Qué debería comprar primero en 1 Upgrade Per Kill?",
+          "answer": "En 1 Upgrade Per Kill, prioriza un Gear Saver para partidas de nivel alto y luego elige ventajas y encantamientos que refuercen tu clase. Las Golden Apples ayudan a sobrevivir, mientras que los cofres y las capas son gasto cosmético opcional."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar 1 Upgrade Per Kill?",
+      "description": "Cada eliminación mejora tu equipo y cada muerte reinicia tu progreso. Usa nuestras guías gratuitas de Roblox para planificar mejoras, elegir ventajas y subir en la clasificación.",
+      "primary": "Jugar en Roblox",
+      "secondary": "Leer la guía para principiantes"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de 1 Upgrade Per Kill",
+    "overviewDescription": "Domina el ciclo de eliminación y mejora con recorridos para principiantes, consejos de daño, rutas de progresión y estrategias prácticas para 1 Upgrade Per Kill."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de 1 Upgrade Per Kill",
+    "overviewDescription": "Consulta los códigos más recientes de 1 Upgrade Per Kill, aprende a canjearlos y descubre qué recompensas pueden acelerar tu siguiente partida de mejoras."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de 1 Upgrade Per Kill",
+    "overviewDescription": "Entiende el sistema de mejoras, el escalado de daño, las mejoras permanentes, las recompensas de nivel y las reglas que hay detrás de cada eliminación en 1 Upgrade Per Kill."
+  },
+  "combat": {
+    "overviewTitle": "Guías de combate de 1 Upgrade Per Kill",
+    "overviewDescription": "Crea combatientes más fuertes, gana más duelos, gestiona rachas de eliminaciones y mejora tus decisiones de PvP en 1 Upgrade Per Kill."
+  },
+  "progression": {
+    "overviewTitle": "Guías de progresión de 1 Upgrade Per Kill",
+    "overviewDescription": "Encuentra las rutas de mejora más rápidas, los objetivos de daño y DPS máximos, las prioridades de subida de nivel y las estrategias de estadísticas para 1 Upgrade Per Kill."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y actualizaciones de 1 Upgrade Per Kill",
+    "overviewDescription": "Sigue las notas de actualización de 1 Upgrade Per Kill, los recursos de la comunidad, las conversaciones de Discord y Reddit y las últimas noticias del juego."
+  },
+  "tutorial": {
+    "overviewTitle": "Tutoriales de 1 Upgrade Per Kill",
+    "overviewDescription": "Aprende 1 Upgrade Per Kill paso a paso con tutoriales de juego, consejos para principiantes, lecciones sobre daño y formas de hacerte más fuerte más rápido."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "notFoundTitle": "No se encontró la página",
+    "notFoundDescription": "La guía que buscas puede haberse movido o aún no se ha añadido.",
+    "browseGuides": "Ver guías",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de 1 Upgrade Per Kill",
+    "about": "La wiki de 1 Upgrade Per Kill es un centro de guías independiente creado por fans que cubre niveles de mejora, clases, ventajas, encantamientos y progresión PvP tanto para jugadores nuevos como veteranos de Roblox.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de 1 Upgrade Per Kill. No está afiliada a Block PvP ni a Roblox.",
+    "description": "Campo de batalla PvP de mejoras gratuito para todos de Roblox. Cada eliminación mejora tu equipo; cada muerte reinicia tu progreso.",
+    "playGame": "Jugar a 1 Upgrade Per Kill en Roblox",
+    "officialDiscord": "Página del juego en Roblox",
+    "officialYoutube": "Vista previa del juego",
+    "vvBuilder": "Mecánicas de mejora",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de progresión",
+    "bossGuides": "Guías de combate",
+    "buildGuide": "Comunidad y actualizaciones",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}
