@@ -1,0 +1,14 @@
+{
+  "name": "1upgradeperkill-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "1upgradeperkill.top",
+      "custom_domain": true
+    }
+  ]
+}
