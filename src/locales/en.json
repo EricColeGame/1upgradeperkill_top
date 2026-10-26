@@ -43,96 +43,96 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the one-kill-one-upgrade loop, pick a forgiving starter class, and keep your first streak alive."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Progression",
+          "description": "Plan the climb from Leather to MAXED with survival-first fights, Gold priorities, and Gear Saver timing."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Active Codes",
+          "description": "Redeem WELCOME for a free gift and claim the separate Block PvP group reward before your first match."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in 1 Upgrade Per Kill."
+          "title": "Best Classes",
+          "description": "Compare Warrior, Archer, Trickster, Trapper, Bomber, and the full eight-class roster by playstyle."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "1 Upgrade Per Kill Trending Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Active Codes",
+        "Upgrade Ladder",
+        "Best Classes",
+        "Combat Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn the upgrade loop, starter classes, Gold routes, and the mistakes that reset a promising run.",
+          "href": "/guide/1-upgrade-per-kill-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Redeem WELCOME and claim the separate Block PvP group gift.",
+          "href": "/codes/1-upgrade-per-kill-codes"
+        },
+        {
+          "badge": "Core",
+          "title": "Upgrade Ladder",
+          "description": "Follow all 34 steps from Leather to MAXED and learn when a Gear Saver is worth using.",
+          "href": "/mechanics/1-upgrade-per-kill-dps-upgrades"
+        },
+        {
+          "badge": "Popular",
+          "title": "Classes Guide",
+          "description": "Compare all eight classes by role, range, mobility, and escape tools.",
+          "href": "/guide/1-upgrade-per-kill-how-to-play"
+        },
+        {
+          "badge": "PvP",
+          "title": "Combat Guide",
+          "description": "Use positioning, healing, target priority, and knockback awareness to protect your stack.",
+          "href": "/combat/1-upgrade-per-kill-combat-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Strongest Build",
+          "description": "Pair a class with enchants, perks, and Gear Saver timing that survive the late ladder.",
+          "href": "/combat/1-upgrade-per-kill-strongest-build"
+        },
+        {
+          "badge": "Economy",
+          "title": "Gold Routes",
+          "description": "Stack kills, bounties, daily quests, and the playtime track into a reliable Gold supply.",
+          "href": "/guide/1-upgrade-per-kill-fastest-progression"
+        },
+        {
+          "badge": "Community",
+          "title": "Community Guide",
+          "description": "Find player discussions, loadout ideas, and community resources for the Roblox arena.",
+          "href": "/community/1-upgrade-per-kill-community"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Latest Update",
+          "description": "Review the current ladder, class roster, Gear Savers, and leaderboard goals.",
+          "href": "/community/1-upgrade-per-kill-latest-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is 1 Upgrade Per Kill?",
       "paragraphs": [
-        "1 Upgrade Per Kill is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "1 Upgrade Per Kill is a free-to-play Roblox free-for-all PvP arena from Block PvP. Every elimination advances your armor one step along a 34-step ladder, from Leather through Copper, Iron, Full Diamond, Ruby, Shadow, and Prism to MAXED.",
+        "Eight classes reshape how you fight, while Gold buys perks, enchants add build variety, and Golden Apples keep a winning trade alive. Death normally resets the ladder, but a Gear Saver can preserve your armor. Our guides cover codes, classes, upgrade tiers, combat, and Gold routes."
       ],
       "stats": [
         {
@@ -145,186 +145,304 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Free-for-All PvP"
+        },
+        {
+          "label": "Release",
+          "value": "Sep 27, 2026"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "2.1M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Upgrade Steps",
+          "value": "34"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Classes",
+          "value": "8"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Server Size",
+          "value": "25"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore 1 Upgrade Per Kill Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Plan every run with 1 Upgrade Per Kill codes, a beginner route, class comparisons, the 34-step gear ladder, Gold priorities, combat tactics, and shop guidance.",
       "modules": [
         {
           "order": 1,
-          "name": "1 Upgrade Per Kill Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "1 Upgrade Per Kill Codes",
+          "description": "Redeem the confirmed WELCOME code for a free gift, claim the separate Block PvP group reward, and learn the lobby redemption flow.",
           "href": "/codes/1-upgrade-per-kill-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "WELCOME",
+              "detail": "Free gift plus a prompt to join the Block PvP group for a second gift."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "GROUP",
+              "detail": "Join the Block PvP group to claim the separate community reward."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "REDEEM",
+              "detail": "Open the code menu in the lobby, paste the all-caps code, submit, and check your inventory."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "1 Upgrade Per Kill Beginner Guide",
+          "description": "Follow the first-match loop from class selection and safe target picking to Gold spending, Golden Apple timing, and streak protection.",
           "href": "/guide/1-upgrade-per-kill-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Pick Warrior for your first sessions; its extra Golden Apples leave room to learn the arena."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Win one safe fight at a time and avoid fair duels while your armor is still Leather."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Bank Gold from daily quests, bounties, kills, and the playtime track before buying perks."
+            },
+            {
+              "label": "4",
+              "detail": "Use Golden Apples before your health empties; one lost stack costs more than one apple."
+            },
+            {
+              "label": "5",
+              "detail": "Save a Gear Saver for Shadow or above, when a death would erase several tiers."
+            },
+            {
+              "label": "6",
+              "detail": "Redeem WELCOME in the lobby and claim the Block PvP group gift before queueing."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/1-upgrade-per-kill-tier-list",
-          "displayType": "tier-grid",
+          "name": "1 Upgrade Per Kill Classes Guide",
+          "description": "Compare all eight classes by combat role, range, mobility, and escape tools, then choose a kit that matches your arena instincts.",
+          "href": "/guide/1-upgrade-per-kill-how-to-play",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Warrior",
+              "detail": "Melee bruiser with extra Golden Apples for straight duels and holding ground."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Archer",
+              "detail": "Ranged pressure for chipping targets before committing to a fight."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Trickster",
+              "detail": "Mobility and misdirection for escaping bad fights and stealing third-party kills."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Trapper",
+              "detail": "Area control that locks down chokepoints and stops enemy combos."
+            },
+            {
+              "label": "Skirmisher",
+              "detail": "Hit-and-run pressure for quick kills and fast disengages."
+            },
+            {
+              "label": "Fire",
+              "detail": "Firestarter deals damage over time that softens groups and denies space."
+            },
+            {
+              "label": "Bomber",
+              "detail": "Burst and explosives for punishing clustered players."
+            },
+            {
+              "label": "Scorcher",
+              "detail": "Aggressive pressure built to snowball early kills and break armor."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/1-upgrade-per-kill-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "1 Upgrade Per Kill Upgrade Tiers",
+          "description": "Track the 34-step armor ladder from Leather to MAXED and learn which stages reward patience, consolidation, and aggressive pushes.",
+          "href": "/mechanics/1-upgrade-per-kill-dps-upgrades",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "MAXED and Prism: the final ladder stages, where every fight can decide the run."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Shadow and Ruby: high-tier territory where survival matters more than another kill."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Full Diamond and Iron: the mid-game checkpoint with a dedicated Fastest Diamond leaderboard."
+            },
+            {
+              "label": "C",
+              "detail": "Copper and Leather: the starting tiers, where safe third-party fights rebuild momentum."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/1-upgrade-per-kill-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "1 Upgrade Per Kill Best Perks and Enchants",
+          "description": "Compare perks and enchant priorities that improve survivability, escape options, and damage without wasting Gold on cosmetics first.",
+          "href": "/combat/1-upgrade-per-kill-strongest-build",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Head Start",
+              "detail": "Start each life with Leather pieces and no perk-slot cost."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Snack Pack",
+              "detail": "Adds another Golden Apple per life for longer trades."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Mobility",
+              "detail": "Movement and escape perks protect a high-upgrade streak."
+            },
+            {
+              "label": "Damage",
+              "detail": "Damage enchants speed up kills and make the next tier easier to reach."
+            },
+            {
+              "label": "Gear Saver",
+              "detail": "Keep your armor after one death when the stack is worth protecting."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/1-upgrade-per-kill-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "1 Upgrade Per Kill Gold and Emeralds Guide",
+          "description": "Track Gold from kills, bounties, daily quests, the playtime track, and Server Boosts, then route it into perks, enchants, Golden Apples, and Gear Savers.",
+          "href": "/guide/1-upgrade-per-kill-fastest-progression",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Kills",
+              "detail": "Eliminations are the core Gold source and scale with your combat consistency."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Bounties",
+              "detail": "Bounty targets add Gold once you can win fights consistently."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Quests",
+              "detail": "Daily quests are the safest early income because they do not require a win."
+            },
+            {
+              "label": "Playtime",
+              "detail": "The playtime track pays out even in rounds where you do not win."
+            },
+            {
+              "label": "Boosts",
+              "detail": "Server Boosts raise Gold and XP gains but do not raise the upgrade counter."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "1 Upgrade Per Kill Combat Tips and Strategies",
+          "description": "Use positioning, healing timing, target selection, edge awareness, and disengage rules to protect a growing upgrade stack.",
+          "href": "/combat/1-upgrade-per-kill-combat-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Position",
+              "detail": "Fight near cover and chokepoints so only one enemy can reach you at a time."
+            },
+            {
+              "label": "Healing",
+              "detail": "Use Golden Apples before your health hits zero; a lost stack costs more than one apple."
+            },
+            {
+              "label": "Targets",
+              "detail": "Hunt high-upgrade players for bonus XP only when you have a clear escape route."
+            },
+            {
+              "label": "Edges",
+              "detail": "Stand two steps back from ledges; Trickster and Bomber can turn knockback into a kill."
+            },
+            {
+              "label": "Disengage",
+              "detail": "At Ruby and above, walk away from a coin-flip fight instead of donating the ladder."
+            },
+            {
+              "label": "Cleanup",
+              "detail": "Let two stacked players trade, then finish the survivor for a low-risk upgrade."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "1 Upgrade Per Kill Shop and Game Passes",
+          "description": "Review Gear Savers, Gold-bought perks, class unlocks, crates, and capes, and separate combat value from cosmetic spending.",
+          "href": "/guide/1-upgrade-per-kill-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gear Saver",
+              "detail": "The safety net is worth banking for Shadow and above; avoid spending it at Iron."
+            },
+            {
+              "label": "Perks",
+              "detail": "Gold-bought perks add long-term power outside a single streak."
+            },
+            {
+              "label": "Classes",
+              "detail": "Warrior is free; Archer and Trickster are Robux unlocks; Bomber costs 4,000 Gold or a Halloween quest."
+            },
+            {
+              "label": "Crates",
+              "detail": "Open crates for cosmetics and rewards that do not change the upgrade ladder."
+            },
+            {
+              "label": "Capes",
+              "detail": "Capes are cosmetic status items and do not affect combat."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about 1 Upgrade Per Kill.",
+      "title": "1 Upgrade Per Kill FAQ",
+      "description": "Direct answers about 1 Upgrade Per Kill classes, upgrades, codes, Gear Savers, and the death reset rule.",
       "items": [
         {
           "question": "What is 1 Upgrade Per Kill?",
-          "answer": "1 Upgrade Per Kill is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "1 Upgrade Per Kill is a free-to-play Roblox free-for-all PvP arena from Block PvP. Each elimination moves your armor one step up a 34-step ladder, while death normally resets the climb."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does the upgrade ladder work in 1 Upgrade Per Kill?",
+          "answer": "1 Upgrade Per Kill uses eight named armor tiers: Leather, Copper, Iron, Full Diamond, Ruby, Shadow, Prism, and MAXED. The in-game counter tracks 34 total upgrade steps, with Full Diamond serving as a major mid-game checkpoint."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does death reset progress in 1 Upgrade Per Kill?",
+          "answer": "Yes. Dying in 1 Upgrade Per Kill normally returns your armor to Leather and clears the upgrade stack. A Gear Saver is the exception and can preserve your armor through one death."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which class should beginners choose in 1 Upgrade Per Kill?",
+          "answer": "Warrior is the most forgiving first class in 1 Upgrade Per Kill because its extra Golden Apples allow more mistakes. Once you learn the map, try mobile or ranged classes such as Trickster, Skirmisher, or Archer."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I redeem codes in 1 Upgrade Per Kill?",
+          "answer": "Launch 1 Upgrade Per Kill, open the code menu in the lobby, paste WELCOME, submit it, and check your inventory. Joining the Block PvP group is a separate claim for a second gift."
+        },
+        {
+          "question": "What should I buy first in 1 Upgrade Per Kill?",
+          "answer": "In 1 Upgrade Per Kill, prioritize a Gear Saver for high-tier runs, then choose perks and enchants that reinforce your class. Golden Apples support survival, while crates and capes are optional cosmetic spending."
         }
       ]
     },
